@@ -1,4 +1,4 @@
-<img width="913" height="615" alt="image" src="https://github.com/user-attachments/assets/d8b7c5e7-3bce-478e-98b1-6a17a2285b36" />Day 02 — Timing Libraries & Sequential RTL
+
 
 ## Overview
 
