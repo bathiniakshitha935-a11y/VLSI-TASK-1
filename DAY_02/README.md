@@ -1,4 +1,4 @@
-Day 02 — Timing Libraries & Sequential RTL
+<img width="913" height="615" alt="image" src="https://github.com/user-attachments/assets/d8b7c5e7-3bce-478e-98b1-6a17a2285b36" />Day 02 — Timing Libraries & Sequential RTL
 
 ## Overview
 
@@ -32,4 +32,7 @@ The practical experiments, simulation waveforms, synthesis results, and observat
 - Verilog HDL
 - Icarus Verilog
 - GTKWave
-…
+<img width="906" height="598" alt="image" src="https://github.com/user-attachments/assets/5c87e8a1-c9a1-446b-9a12-406024fe7097" />
+
+
+
