@@ -1,6 +1,6 @@
 # Day 3 — Counter Optimization & Synthesis Checks
 
-Day 3 contains the first group of supplied workshop screenshots. The figures cover counter-oriented RTL/synthesis work, constant-DFF examples, and synthesis optimization checks.
+Day 3 contains the first group of supplied workshop screenshots. The figures cover counter-orented RTL/synthesis work, constant-DFF examples, and synthesis optimization checks.
 
 ## Captured topics
 
