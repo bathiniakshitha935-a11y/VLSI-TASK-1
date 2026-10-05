@@ -1,0 +1,24 @@
+# Intermediate generated netlists
+results/picorv32_openroad.v
+results/picorv32_openroad_compat.v
+results/picorv32_openroad_compat2.v
+results/picorv32_pd.v
+results/picorv32_sky130.v
+results/picorv32_mapped.v
+results/picorv32.json
+
+# Logs
+results/*.log
+
+# Temporary helper scripts
+make_placement_image.py
+make_placement_svg.py
+floorplan_test.tcl
+placement_summary.tcl
+
+# Old/reference screenshots
+images/01_design_preparation.png
+images/02_timing_report.png
+images/03_synthesis_result.png
+images/04_synthesis_statistics.png
+images/05_synthesis_completed.png

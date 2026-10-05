@@ -1,0 +1,30 @@
+========================================
+PicoRV32 Day 6 Placement Summary
+========================================
+
+Design:
+PicoRV32
+
+Placed standard cells:
+12115
+
+DEF file:
+results/picorv32_placement.def
+
+DEF file size:
+948K	results/picorv32_placement.def
+
+Placement database:
+results/picorv32_placement.odb
+
+Placement visualization:
+images/picorv32_placement.svg
+
+Timing:
+No timing paths reported in the current OpenROAD setup.
+
+Area:
+OpenROAD reports 0 u^2 in this manually assembled flow.
+This is not used as the final physical-area result.
+
+========================================
